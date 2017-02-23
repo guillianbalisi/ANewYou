@@ -24,7 +24,7 @@ App idea and design by Lauren Jagus. Special thank you to Mitch Pehora for desig
 
 ### Screenshots
 
-<img src="http://i.imgur.com/Q7iouLF.png" alt="" width="" height="700"> <img src="http://i.imgur.com/blS2pFx.png" alt="" width="" height="700"> <img src="http://i.imgur.com/ZBmexun.png" alt="" width="" height="700"> <img src="http://i.imgur.com/P2KE8W7.png" alt="" width="" height="700"> <img src="http://i.imgur.com/iUXHUQL.png" alt="" width="" height="700">
+<img src="http://i.imgur.com/Q7iouLF.png" alt="" width="" height="750"> <img src="http://i.imgur.com/blS2pFx.png" alt="" width="" height="750"> <img src="http://i.imgur.com/ZBmexun.png" alt="" width="" height="750"> <img src="http://i.imgur.com/P2KE8W7.png" alt="" width="" height="750"> <img src="http://i.imgur.com/iUXHUQL.png" alt="" width="" height="750">
 
 ### Support or Contact
 
