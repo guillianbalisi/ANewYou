@@ -2,7 +2,7 @@
 
 ![Image](http://i.imgur.com/V3xddQK.png)
 
-A New You helps individuals struggling with addiction and to assist them in getting or remaining sober. The app aids in recovery by allowing you to track daily progress, monitor your mood, and set your own personal goals.
+A New You helps individuals struggling with addiction and assists them in getting or remaining sober. The app aids in recovery by allowing you to track daily progress, monitor your mood, and set your own personal goals.
 
 App features:
 
