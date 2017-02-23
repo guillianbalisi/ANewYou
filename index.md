@@ -1,6 +1,6 @@
-<center>## A New You</center>
+## A New You
 
-<center>![Image](http://i.imgur.com/V3xddQK.png)</center>
+![Image](http://i.imgur.com/V3xddQK.png)
 
 A New You helps individuals struggling with addiction and assists them in getting or remaining sober. The app aids in recovery by allowing you to track daily progress, monitor your mood, and set your own personal goals.
 
