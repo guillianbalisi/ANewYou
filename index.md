@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## A New You
 
-You can use the [editor on GitHub](https://github.com/guillianbalisi/ANewYou/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](http://i.imgur.com/V3xddQK.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A New You helps individuals struggling with addiction and to assist them in getting or remaining sober. The app aids in recovery by allowing you to track daily progress, monitor your mood, and set your own personal goals.
 
-### Markdown
+App features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+• Dashboard to keep track of progress
 
-```markdown
-Syntax highlighted code block
+• Daily facts about addiction and recovery
 
-# Header 1
-## Header 2
-### Header 3
+• Mood monitor and suggestions based on current mood
 
-- Bulleted
-- List
+• Set short and long term goals and check them off as you achieve them
 
-1. Numbered
-2. List
+• Daily notifications to check if you have refrained from use
 
-**Bold** and _Italic_ and `Code` text
+• Profile to revisit why you started and look back where you came from
 
-[Link](url) and ![Image](src)
-```
+### Contributions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+App idea and design by Lauren Jagus. Special thank you to Mitch Pehora for designing and creating the app icon and other icon images in the app.
 
-### Jekyll Themes
+### Screenshots
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guillianbalisi/ANewYou/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="http://i.imgur.com/Q7iouLF.png" alt="" width="" height="750"> <img src="http://i.imgur.com/blS2pFx.png" alt="" width="" height="750"> <img src="http://i.imgur.com/ZBmexun.png" alt="" width="" height="750"> <img src="http://i.imgur.com/P2KE8W7.png" alt="" width="" height="750"> <img src="http://i.imgur.com/iUXHUQL.png" alt="" width="" height="750">
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email guillianbalisi@gmail.com for any questions or concerns.
