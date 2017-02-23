@@ -2,6 +2,8 @@
 
 ![Image](http://i.imgur.com/V3xddQK.png)
 
+<a href="https://itunes.apple.com/us/app/course-calculator/id1041737181?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+
 A New You helps individuals struggling with addiction and assists them in getting or remaining sober. The app aids in recovery by allowing you to track daily progress, monitor your mood, and set your own personal goals.
 
 App features:
