@@ -1,4 +1,4 @@
-<a href="https://itunes.apple.com/ca/app/course-calculator/id1041737181?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+<a href="https://itunes.apple.com/ca/app/a-new-you/id1208332556?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
 
 
 ## A New You
